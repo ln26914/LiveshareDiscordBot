@@ -1,0 +1,3 @@
+My goals for the project are:
+- Write a discord bot that posts Liveshare Links to an authorized chat.
+- Make this process more convenient than just copy + pasting the join link into the discord chat.
